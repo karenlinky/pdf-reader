@@ -2,8 +2,7 @@
 Ka Ying Karen Lin<br/>
 openjdk 11.0.11 2021-04-20<br/>
 
-https://github.com/karenlinky/pdf-reader/assets/61481010/93c68112-0a16-4458-bda1-b8a89e1ce893
+https://github.com/karenlinky/pdf-reader/assets/61481010/390b6325-ab21-47f1-a845-edbfe131b829
 
-<img src="https://github.com/karenlinky/pdf-reader/assets/61481010/6f503bef-db8e-40fb-84f5-411282605d4a" height="600"/>
-
-<img src="https://github.com/karenlinky/pdf-reader/assets/61481010/787a1723-959c-482a-be0e-78a97fe78d9f" height="600"/>
+![Screenshot 2023-11-12 153411](https://github.com/karenlinky/pdf-reader/assets/61481010/858bd509-7b94-4954-a91d-cbeec3a6ba30)
+![Screenshot 2023-11-12 160316](https://github.com/karenlinky/pdf-reader/assets/61481010/116824cf-a745-40fe-b081-f750b580961a)
